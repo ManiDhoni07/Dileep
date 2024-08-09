@@ -26,8 +26,7 @@ header a.nav-link {
     color: #fff;
 }
 .profile{
-    padding: 30px 0;
-    margin-top: 70px;
+    padding: 100px 0 30px;
 }
 .profile h1{
     font-family: "PT Serif", serif;
@@ -147,10 +146,13 @@ header a.nav-link {
         padding: 30px 15px;
     }
     .profile{
-        margin-top: 60px;
+        padding: 90px 0 30px;
     }
     .profile h1{
         font-size: 38px;
         text-align: center;
+    }
+    .content-section h4{
+        font-size: 30px;
     }
 }
