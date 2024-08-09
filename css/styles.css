@@ -4,6 +4,7 @@ body {
     font-style: normal;
     background-color: #181818;
     color: #fff;
+    padding-top: 30px;
 }
 header {
     background: #0F0F0F;
@@ -11,6 +12,9 @@ header {
 header a.nav-link {
     font-size: 16px;
     font-weight: 500;
+}
+.portfolio-section{
+    padding: 70px 15px 0 15px;
 }
 .portfolio-section h2 {
     font-family: "PT Serif", serif;
@@ -26,7 +30,7 @@ header a.nav-link {
     color: #fff;
 }
 .profile{
-    padding: 100px 0 30px;
+    padding: 70px 0 0;
 }
 .profile h1{
     font-family: "PT Serif", serif;
@@ -146,7 +150,10 @@ header a.nav-link {
         padding: 30px 15px;
     }
     .profile{
-        padding: 90px 0 30px;
+        padding: 60px 0 0;
+    }
+    .portfolio-section{
+        padding: 60px 15px 0 15px;
     }
     .profile h1{
         font-size: 38px;
